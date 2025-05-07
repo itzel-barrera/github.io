@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+head p{
+    color: blanchedalmond;
+}
+section{
+    margin-bottom: 25px;
+}
+h2{
+    color: aquamarine;
+    border-bottom: 1PX solid #ccc;
+}
